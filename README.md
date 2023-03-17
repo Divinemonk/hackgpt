@@ -17,6 +17,6 @@ This project is open to collaboration and contributions from anyone who is inter
 
 | Sr no. | Topic | State |
 |--------|-------|-------|
-| 1. | [Linux Terminal Simulator]() | not working | 
+| 1. | [Linux Terminal Simulator]() | working | 
 | 2. | [DAN: Jailbreak version]() | not working | 
 | 3. | [George Carlin: Jailbreak version]() | working | 
