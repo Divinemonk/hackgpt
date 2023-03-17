@@ -8,7 +8,7 @@ This project is open to collaboration and contributions from anyone who is inter
 
 <br>
 
-### We do things, the etical way!!
+### We do things, the ETHICAL way!!
 **Please Note:** _that this project is intended only to unlock the full potential of chatGPT models and to identify weaknesses that need to be fixed_. It is not intended to harm or damage chatGPT or OpenAI in any way. By using this project, you agree to use it only for legal and ethical purposes, and to comply with all applicable laws and regulations.
 
 <br>
