@@ -5,6 +5,7 @@ __HackGPT__ is a collective one place resource project that aims to unleash the 
 <br>
 
 <!-- https://www.theinsaneapp.com/2023/04/chatgpt-jailbreak-prompts.html -->
+<!-- https://www.mlyearning.org/how-to-jailbreak-chatgpt/?expand_article=1 -->
 
 ## Index
 
