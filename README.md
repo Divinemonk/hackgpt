@@ -9,11 +9,22 @@ __HackGPT__ is a collective one place resource project that aims to unleash the 
 
 ## Index
 
-| Sr no. | Topic | State |
-|--------|-------|-------|
-| 1. | [Linux Terminal Simulator](resources/1.md) | working | 
-| 2. | [DAN: Jailbreak version](resources/2.md) | not working | 
-| 3. | [George Carlin: Jailbreak version](resources/3.md) | working | 
+| Sr no. | Topic |
+|--------|-------|
+| 1. | [Linux Terminal Simulator](resources/1.md) |
+| 2. | [DAN: Jailbreak version](resources/2.md) |
+| 3. | [George Carlin: Jailbreak version](resources/3.md) | 
+
+
+## Resources
+| Topic | Link |
+|---|---|
+| ChatGPT Jailbreak Prompts | https://www.theinsaneapp.com/2023/04/chatgpt-jailbreak-prompts.html |
+| | https://www.mlyearning.org/how-to-jailbreak-chatgpt/?expand_article=1 |
+| Hackgpt website | https://hackgpt.streamlit.app/ |
+| | https://github.com/NoDataFound/hackGPT |
+
+
 
 
 
