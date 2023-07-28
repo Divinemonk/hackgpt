@@ -12,6 +12,7 @@ __HackGPT__ is a collective one place resource project that aims to unleash the 
 | 2. | [DAN: Jailbreak version](resources/2.md) |
 | 3. | [George Carlin: Jailbreak version](resources/3.md) | 
 
+<br>
 
 ## Resources
 | Topic | Link |
