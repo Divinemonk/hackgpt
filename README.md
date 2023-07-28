@@ -4,9 +4,6 @@ __HackGPT__ is a collective one place resource project that aims to unleash the 
 
 <br>
 
-<!-- https://www.theinsaneapp.com/2023/04/chatgpt-jailbreak-prompts.html -->
-<!-- https://www.mlyearning.org/how-to-jailbreak-chatgpt/?expand_article=1 -->
-
 ## Index
 
 | Sr no. | Topic |
@@ -20,11 +17,9 @@ __HackGPT__ is a collective one place resource project that aims to unleash the 
 | Topic | Link |
 |---|---|
 | ChatGPT Jailbreak Prompts | https://www.theinsaneapp.com/2023/04/chatgpt-jailbreak-prompts.html |
-| | https://www.mlyearning.org/how-to-jailbreak-chatgpt/?expand_article=1 |
+| How to jailbreak chatgpt | https://www.mlyearning.org/how-to-jailbreak-chatgpt/?expand_article=1 |
 | Hackgpt website | https://hackgpt.streamlit.app/ |
-| | https://github.com/NoDataFound/hackGPT |
-
-
+| hackgpt website | https://github.com/NoDataFound/hackGPT |
 
 
 
